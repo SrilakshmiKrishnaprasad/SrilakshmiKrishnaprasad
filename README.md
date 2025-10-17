@@ -56,12 +56,12 @@ A smart resume analysis web app built using **Python + Streamlit + MySQL**, powe
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srilakshr&show_icons=true&theme=radical" alt="Srilakshmi's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilakshr&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SrilakshmiKrishnaprasad&show_icons=true&theme=radical" alt="Srilakshmi's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrilakshmiKrishnaprasad&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srilakshr&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrilakshmiKrishnaprasad&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
